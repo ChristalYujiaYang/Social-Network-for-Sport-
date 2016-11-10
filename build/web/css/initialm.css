@@ -1,0 +1,73 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 1, 2015, Dec 1, 2015 11:07:19 PM
+    Author     : wyh1
+*/
+a:link{
+    text-decoration:none;
+    color:white;
+}
+a:hover{
+    text-decoration:underline;
+}
+a:visited{
+    text-decoration:none;
+    color:white;
+}
+.initial{
+    width: 100%;
+    border-radius: 10px;
+    background-color: #fdbe75;
+    padding: 1%;
+    margin: 1%;
+}
+.title{
+    height: 8%;
+    margin-top: 2%;
+    font-size: 0.7em;
+    font-weight: bold;
+}
+.pagelist {
+    text-align: center; 
+    margin-top: 5px;
+}
+.pagelist font{
+    font-size: 0.6em;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.content{
+    width: 100%;
+    min-height: 130px;
+    font-size: 0.5em;
+}
+.content table{
+    width: 90%;
+}
+.eventitems{
+    width: 90%;
+    padding-left: 5%;
+    padding-right: 5%;
+    float: left;
+    font-size: 0.6em;
+    text-align: left;
+}
+.eventitems a:link{
+    text-decoration:none;
+    color:black;
+}
+.eventitems a:hover{
+    text-decoration:underline;
+}
+.eventitems a:visited{
+    text-decoration:none;
+    color:black;
+}
+.eventitems table{
+    width: 90%;
+}
+
